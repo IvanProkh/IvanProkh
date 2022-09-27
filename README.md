@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I’m Ivan Prokhorets
+### 👀 I’m interested in Front-End Development
+### 🌱 I’m currently learning JS, React
+### 📫 How to reach me: prohorets.ivan@gmail.com
 
 <!--
 **IvanProkh/IvanProkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
