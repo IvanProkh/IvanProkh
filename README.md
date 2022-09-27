@@ -1,4 +1,4 @@
-### 👋 Hi , I am Ivan Prokhorets , a developer from Ukraine .
+### 👋 Hi, I’m Ivan Prokhorets, a developer from Ukraine.
 ### 👀 I’m interested in a career in computer programming.
 ### 🌱 I’m currently learning JS, React.
 ### 📫 How to reach me: prohorets.ivan@gmail.com
