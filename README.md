@@ -1,5 +1,6 @@
-### 👋 Hi, I’m Ivan Prokhorets
-### 👀 I’m interested in Front-End Development
+### 👋 Hi , I am Ivan Prokhorets , a developer
+from Ukraine .
+### 👀 I’m interested in a career in computer programming.
 ### 🌱 I’m currently learning JS, React
 ### 📫 How to reach me: prohorets.ivan@gmail.com
 
@@ -16,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+My add:
+### 👀 I’m interested Web Development
 -->
